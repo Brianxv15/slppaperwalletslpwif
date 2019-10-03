@@ -1,4 +1,6 @@
 DO NOT RUN GENERATOR ONLINE
+Wallet generator is still preproduction
+use at your own risk
 SLP Paper Wallet
 
 The SLP Paper Wallet Landing Page
